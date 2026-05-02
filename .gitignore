@@ -1,4 +1,7 @@
-.Rproj.user
-.Rhistory
+Datasets/
+project/
+.RDataTmp
+.RDataTmp1
 .RData
-.Ruserdata
+.Rhistory
+.Rproj.user/
